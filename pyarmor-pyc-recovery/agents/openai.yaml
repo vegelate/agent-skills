@@ -1,0 +1,4 @@
+interface:
+  display_name: "PyArmor PYC Recovery"
+  short_description: "Recover readable Python source from PyArmor-protected pyc files."
+  default_prompt: "Recover PyArmor-protected .pyc files into readable .py source without runtime pyc loaders."
